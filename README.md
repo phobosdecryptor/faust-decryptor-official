@@ -1,10 +1,9 @@
 
-### How to Decrypt Faust Ransomware
+# How to Decrypt Faust Ransomware
 
 Faust ransomware is a new variant of the Phobos ransomware family. It encrypts VMware ESXi, servers, Windows servers, and personal computers by attacking them via phishing emails, malicious attachments, and RDP exploits. Moreover, hackers also target victims by exploiting unpatched vulnerabilities. The Faust ransomware uses very advanced algorithms, such as AES-256 combined with RSA-1024 asymmetric encryption, to encrypt data.  
 You can purchase decryptor by contacting us on our WhatsApp: +447706666376
-https://wa.me/447706666376
-
+[wa.me/+447706666376]
 Faust ransomware uses the .faust extension at the end of each file, for example, sample.docx.id[b27937-4830].[antich154@privatemail.com].faust. In addition, this ransomware generates two ransom notes after encrypting the files. 
 
 The ransom notes are info.hta and info.txt. You can see the ransom note in different folders on your system.
@@ -12,26 +11,26 @@ The ransom notes are info.hta and info.txt. You can see the ransom note in diffe
 The ransom note contains contacts for cybercriminals and some more information about the ransomware. In Faust’s case, the criminal uses different emails, such as antich154@privatemail.com and others. If you are infected by this ransomware, then you should follow the steps given below to protect your data and decrypt the ransomware.
 
 Steps To Take After The Faust Ransomware Attack
-## Isolate your network.
+### Isolate your network.
 This is the very first step that you should take after an Faust ransomware attack. First of all, turn off all of your computers by unplugging the power cables, and then turn off the internet access to all of your computers.
 
-## Install antivirus and scan your system
+### Install antivirus and scan your system
 This is the second step that you should take after the ransomware attack. You should scan all of your network and computers with a good antivirus program, such as Avast antivirus or Eset Nod32 antivirus. Scanning will help you remove viruses from your computer. Sometimes, ransomware also contains silent miners and stealers. Silent miners are used to mine crypto with the power of your system, and it results in the slowdown of computers. 
 
-## Look for backups and restore the data
+### Look for backups and restore the data
 The next step is that you should check your backup files. If your files are not encrypted, then you can restore your data from the latest backup. Moreover, you can also look at offline backups available in your database.
 
-## Do not negotiate with the cyber criminals
+### Do not negotiate with the cyber criminals
 You should never contact the attackers to get the decryptor or any kind of help. It helps them do more attacks in the future. In addition, just delete all the ransom notes and remove malware from your computers.
 
-## Contact Phobos Decryptor.
+### Contact Phobos Decryptor.
 This is an optional step that you can take if you want to recover your data from the Faust ransomware. You can reach us by email at phobosdecryptorofficial@gmail.com or on our official WhatsApp number: [wa.me/+447706666376]. We’ll help you to recover your data.
 
 How to decrypt Faust Ransomware with the help of Phobos Decryptor?
 To decrypt the Faust ransomware, you need to follow some easy steps. First of all, open the Phobos decryptor in your system, copy your personal ID, paste it into the decryptor, and click on decrypt files. It will start decrypting the files with the help of online servers to bypass private keys and encryptions. That’s all. You can watch the video given below.
 
 
-### More about Faust Ransomware
+# More about Faust Ransomware
 Here is more information about Faust ransomware and how it attacks victims and encrypts data.
 
 How Does Faust Ransomware Attack?
@@ -54,14 +53,14 @@ Avoid Suspicious Links and Attachments: Don’t click on suspicious links or att
 
 Take quick action: In case you find any suspect of a ransom attack, then disconnect your system from the internet and try to connect with cyber security professionals or your security team ASAP. Your quick actions can result in early recovery from ransom without paying them.
 
-## Frequently Asked Questions (FAQs)
-# Why can’t we open files affected by Faust’s ransomware?
+### Frequently Asked Questions (FAQs)
+### Why can’t we open files affected by Faust’s ransomware?
 After the ransom attack, our files get encrypted and can’t be opened unless we decrypt them by using decryption tools.
 
-# Why was my computer hacked, and all my files were encrypted?
+### Why was my computer hacked, and all my files were encrypted?
 Oftentimes, when we click on phishing emails, download applications from unknown sources, or download cracked files from non-authenticated browsers, ransomware enters our system from these resources. They aim to trap people by spreading ransomware on their systems.
 
-# Can paying ransom attackers help me decrypt my files?
+### Can paying ransom attackers help me decrypt my files?
 There is no guarantee that after paying them their desired ransom, they will provide us with the decryption tool and prevent attacking us in the future. So, always try to approach cybersecurity professionals; they can help you provide the easiest and most reliable solution.
 
 ### Conclusion:
